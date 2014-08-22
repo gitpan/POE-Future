@@ -15,9 +15,10 @@ name: POE-Future
 provides:
   POE::Future:
     file: lib/POE/Future.pm
-    version: '0.02'
+    version: '0.03'
 requires:
   Future: '0.05'
+  POE: '0'
 resources:
   license: http://dev.perl.org/licenses/
-version: '0.02'
+version: '0.03'

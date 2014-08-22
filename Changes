@@ -1,5 +1,9 @@
 Revision history for POE-Future
 
+0.30    2014/08/22 23:33:46
+        [BUGFIXES]
+         * Remember to declare dependency on POE. Oops.
+
 0.02    2014/08/22 13:19:28
         [BUGFIXES]
          * Remember to declare test dependency on Test::Timer

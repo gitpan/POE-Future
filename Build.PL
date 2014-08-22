@@ -7,6 +7,7 @@ my $build = Module::Build->new(
    module_name => 'POE::Future',
    requires => {
       'Future' => '0.05',
+      'POE' => 0,
    },
    build_requires => {
       'Test::More' => '0.88', # done_testing
