@@ -10,6 +10,7 @@ my $build = Module::Build->new(
    },
    build_requires => {
       'Test::More' => '0.88', # done_testing
+      'Test::Timer' => 0,
    },
    auto_configure_requires => 0, # Don't add M::B to configure_requires
    license => 'perl',
