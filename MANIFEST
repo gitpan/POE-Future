@@ -1,0 +1,13 @@
+Build.PL
+Changes
+lib/POE/Future.pm
+MANIFEST			This list of files
+t/00use.t
+t/01poe.t
+t/02timer.t
+t/99pod.t
+Makefile.PL
+README
+LICENSE
+META.yml
+META.json
